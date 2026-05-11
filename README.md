@@ -27,7 +27,7 @@
         <a href="https://sites.google.com/view/jamsilpremiumguide/%ED%99%88" class="btn btn-sub">📘 이용방법/가이드 확인</a>
         
         <!-- 실시간 문의 -->
-        <a href="tel:010-XXXX-XXXX" class="btn btn-tel">📞 실시간 예약/위치 문의</a>
+        <a href="tel:010-5802-4976" class="btn btn-tel">📞 실시간 예약/위치 문의</a>
 
         <div class="info">
             <p class="gold" style="font-weight:bold; margin-top:0;">[방문 전 안내]</p>
