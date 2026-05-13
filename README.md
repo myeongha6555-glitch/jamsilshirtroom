@@ -49,7 +49,7 @@
     </a>
 
     <!-- 노션 가이드 -->
-    <a href="https://melodic-utahraptor-134.notion.site/Jamsil-Premium-Lounge-35db439160b380878d1fd3877bdfd8e8" class="link-card" target="_blank">
+    <a href="https://shirtroom.notion.site/Jamsil-Premium-Lounge-35db439160b380878d1fd3877bdfd8e8" class="link-card" target="_blank">
         <span class="icon">📔</span>
         <div class="text-group">
             <span class="title">모바일 디지털 명함 (Notion)</span>
