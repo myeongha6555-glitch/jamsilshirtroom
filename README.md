@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
+    <meta name="google-site-verification" content="1c9D-uiudvsUoVay1uPIX56Q2eSDCnX8aEwziprhnjA" />
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>잠실셔츠룸 공식 통합 안내센터 | 방이동 1등 서비스</title>
